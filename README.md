@@ -1,2 +1,3 @@
-src - main directory 
+src - the abapgit repository's root
+
 adt/tables - table definitions
